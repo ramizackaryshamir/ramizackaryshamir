@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, my name is Rami Zackary Shamir.  👋
 
-<!--
-**ramizackaryshamir/ramizackaryshamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m currently developing projects 
+> with React, React Native, NextJS, and TypeScript
 
-Here are some ideas to get you started:
+❓ You can find out about some of my previous projects [here](https://www.meetyourcreator.com/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❓ I love connecting so please reach out to me on [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/) or send me an [email](mailto@rzshamir@icloud.com)
+
+🧮 Some npm libraries that I like
+> [r3f](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+>
+> [3js](https://threejs.org/)
+>
+> [THEATREjs](https://www.theatrejs.com/docs/latest)
+>
+> [TESSERACTjs](https://www.npmjs.com/package/tesseract.js)
+> 
+> [react-csv](https://www.npmjs.com/package/react-csv)
+> 
+> [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
+> 
