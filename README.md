@@ -5,4 +5,4 @@
 
 ❓ You can find out about some of my previous projects [here](https://www.meetyourcreator.com/) 
 
-❓ I love connecting so please reach out to me on [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/) or send me an [email](mailto:rzshamir@icloud.com)
+❓ I love connecting so please reach out to me on [LinkedIn](https://www.linkedin.com/in/ramizackaryshamir/) or send me an [email](mailto:rami.zackary.shamir@icloud.com)
